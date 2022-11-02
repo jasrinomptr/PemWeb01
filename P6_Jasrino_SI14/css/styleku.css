@@ -1,0 +1,18 @@
+body{
+    background-color: wheat;
+}
+#header{
+    background-color:chocolate;
+    text-align: center;
+}
+h1{
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+blockquote{
+    border: 1px dotted red;
+    background-color: yellow;
+    text-align: center;
+    padding:50px;
+}
